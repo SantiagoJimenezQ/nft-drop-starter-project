@@ -112,6 +112,7 @@ const [isLoadingMints, setIsLoadingMints] = useState(false);
 
   useEffect(() => {
     getCandyMachineState();
+    /* eslint-disable-next-line */
   }, []);
   // Actions
   const fetchHashTable = async (hash, metadataEnabled) => {

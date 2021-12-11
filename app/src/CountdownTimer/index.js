@@ -38,8 +38,9 @@ useEffect(() => {
         clearInterval(interval);
       }
     };
+    /* eslint-disable-next-line */
   }, []);
-  
+
   return (
     <div className="timer-container">
       <p className="timer-header">Candy Drop Starting In</p>
