@@ -1,0 +1,19 @@
+{
+    "name": "PEPE_MAN",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "FbyebQ7WVbNQhHwVZb8vRLezy5n5vKLL2MhZYcHPsQV5",
+          "share": 100
+        }
+      ]
+    }
+  }

@@ -1,0 +1,19 @@
+{
+    "name": "PEPE_SAD",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "FbyebQ7WVbNQhHwVZb8vRLezy5n5vKLL2MhZYcHPsQV5",
+          "share": 100
+        }
+      ]
+    }
+  }
