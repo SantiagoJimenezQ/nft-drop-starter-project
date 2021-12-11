@@ -88,7 +88,7 @@ const App = () => {
       <div className="container">
         <div className="header-container">
           <p className="header">🐸 Pepe Drop</p>
-          <p className="sub-text">Get your Pepe!</p>
+          <p className="sub-text">Get your Pepe now! Limited units!</p>
           {!walletAddress && renderNotConnectedContainer()}
         </div>
         {/* Check for walletAddress and then pass in walletAddress */}
